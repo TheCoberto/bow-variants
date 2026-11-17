@@ -1,0 +1,31 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§bNew Explosive Arrow\n§6Version 1.0 by By LepStarlk",
+    "name": "Explosive Arrow",
+    "uuid": "a64109c4-5cc5-4dba-9cff-010643bed7d3",
+    "version": [
+      1,
+      8,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "§bNew Explosive Arrow\n§6Version 1.0 by By LepStarlk",
+      "type": "data",
+      "uuid": "015df029-2b18-4b78-9424-99c8f52df3c8",
+      "version": [
+        1,
+        8,
+        0
+      ]
+    }
+  ],
+  "dependencies": null
+}

@@ -1,0 +1,30 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+      "description": {
+        "identifier": "minecraft:bow",
+        "category": "Equipment"
+      },
+      "components": {
+        "minecraft:use_duration": 20,
+        "minecraft:display_name": {
+          "value": "Bow"
+        },
+        "minecraft:icon": {
+          "texture": "bow"
+        },
+        "minecraft:shootable": {
+          "projectiles": [
+            "minecraft:arrow",
+            "thecoberto:explosive_arrow"
+          ],
+          "charge": [
+            {
+              "max_duration": 20,
+              "power": 1.0
+            }
+          ]
+        }
+      }
+    }
+  }
