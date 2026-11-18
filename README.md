@@ -5,7 +5,7 @@
 - **Demolition Bow**: fires explosive arrows that blow up on impact (they don't break blocks).
 - **Bow of Levitation**: fires levitation arrows that make whatever they hit float for 10 seconds.
 
-The bow and arrow files are shared with Skeleton Variants (`stronger-skeletons`). Don't install both packs in the same world: they define the same items.
+The bow and arrow files are shared with Skeleton Variants (`stronger-skeletons`). Edit them there, then run `..\bedrock-tools\sync.ps1` here to copy them across. `sync.json` lists what's shared. Don't install both packs in the same world: they define the same items.
 
 ## Building
 

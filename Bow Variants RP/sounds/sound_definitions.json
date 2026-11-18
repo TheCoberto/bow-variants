@@ -31,10 +31,22 @@
     "thecoberto.effect.gun.echo": {
       "category": "neutral",
       "sounds": [
-        { "name": "sounds/effect/gun/echo_0", "volume": 0.5 },
-        { "name": "sounds/effect/gun/echo_1", "volume": 0.5 },
-        { "name": "sounds/effect/gun/echo_2", "volume": 0.5 },
-        { "name": "sounds/effect/gun/echo_3", "volume": 0.5 }
+        {
+          "name": "sounds/effect/gun/echo_0",
+          "volume": 0.5
+        },
+        {
+          "name": "sounds/effect/gun/echo_1",
+          "volume": 0.5
+        },
+        {
+          "name": "sounds/effect/gun/echo_2",
+          "volume": 0.5
+        },
+        {
+          "name": "sounds/effect/gun/echo_3",
+          "volume": 0.5
+        }
       ]
     },
     "thecoberto.effect.player.blind": {
