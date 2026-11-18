@@ -1,9 +1,0 @@
-{
-    "resource_pack_name": "Skeleton Variants RP",
-    "texture_name": "atlas.entity",
-    "texture_data": {
-      "creeper_bomb": {
-        "textures": "textures/entity/explosive_arrows.png"
-      }
-    }
-  }
