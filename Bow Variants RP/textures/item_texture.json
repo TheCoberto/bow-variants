@@ -2,9 +2,17 @@
   "resource_pack_name": "Bow Variants RP",
   "texture_name": "atlas.items",
   "texture_data": {
-    "explosive_bow": { "textures": "textures/items/explosive_bow" },
-    "explosive_arrow": { "textures": "textures/items/arrow/explosive_arrow" },
-    "levitation_bow": { "textures": "textures/items/levitation_bow" },
-    "levitation_arrow": { "textures": "textures/items/arrow/levitation_arrow" }
+    "explosive_bow": {
+      "textures": "textures/items/explosive_bow.png"
+    },
+    "explosive_arrow": {
+      "textures": "textures/items/arrow/explosive_arrow.png"
+    },
+    "levitation_bow": {
+      "textures": "textures/items/levitation_bow.png"
+    },
+    "levitation_arrow": {
+      "textures": "textures/items/arrow/levitation_arrow.png"
+    }
   }
 }
