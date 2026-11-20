@@ -1,12 +1,12 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Bow Variants §b§l[1.0.0]",
+    "name": "Bow Variants §b§l[1.0.1]",
     "description": "New bows and arrows: Demolition Bow and Bow of Levitation.",
     "uuid": "a4f1874b-133a-4481-8b57-54fc3c848e5d",
-    "version": [1, 0, 0],
+    "version": [1, 0, 1],
     "min_engine_version": [1, 21, 20]
   },
-  "modules": [{ "type": "data", "uuid": "af239fc9-4fe9-4a82-9d33-904b6564de44", "version": [1, 0, 0] }],
-  "dependencies": [{ "uuid": "d73768dd-1b0c-4be8-a90c-7217d078c97f", "version": [1, 0, 0] }]
+  "modules": [{ "type": "data", "uuid": "af239fc9-4fe9-4a82-9d33-904b6564de44", "version": [1, 0, 1] }],
+  "dependencies": [{ "uuid": "d73768dd-1b0c-4be8-a90c-7217d078c97f", "version": [1, 0, 1] }]
 }
