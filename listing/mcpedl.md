@@ -1,7 +1,7 @@
 # MCPEDL listing: Bow Variants
 
 Post: not posted yet (new post, Add-Ons category)
-Images: the repo has no promo folder yet. Needs a banner and a few screenshots (an arrow exploding, a mob floating).
+Images: promo/banner.png (thumbnail), promo/logo.png. Screenshots worth taking: an arrow exploding, a mob floating.
 Needs before posting: a LootLabs link and a Google Drive file for the .mcaddon.
 Note: Skeleton Variants and Coberto's Arsenal both include these bows. This one suits players who want only the bows, without new mobs.
 
